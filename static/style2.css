@@ -1,0 +1,31 @@
+/* predictor.css */
+
+#prediction-form {
+    background-image: url('https://cdn.pixabay.com/photo/2018/01/23/23/34/nature-3102762_640.jpg'); /* Replace with the correct path to your image */
+    background-size: cover;
+    background-position: center;
+    color: #ffffff; /* Set text color to contrast with the background */
+    padding: 50px; /* Adjust padding as needed */
+}
+/* Change text color to yellow for specific labels */
+.predictor,
+.mintemp,
+.maxtemp,
+.rainfall,
+.windgustspeed,
+.windspeed9am,
+.windspeed3pm,
+.humidity9am,
+.humidity3pm,
+.pressure9am,
+.pressure3pm,
+.temp9am,
+.temp3pm,
+.raintoday,
+.location,
+.winddir9am,
+.winddir3pm,
+.windgustdir {
+    color: yellow;
+}
+
