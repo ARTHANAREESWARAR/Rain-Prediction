@@ -35,6 +35,18 @@ This project is a Rainfall Prediction System that uses Machine Learning to predi
       ├── requirements.txt      # Python dependencies
       └── README.md             # Project documentation
 
+𝐒𝐨𝐦𝐞 𝐬𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐚𝐩𝐩
+  ![Screenshot 2024-09-14 103630](https://github.com/user-attachments/assets/72dc2a61-540e-4d6b-99e3-0e4c07f99d20)
+
+  ![Screenshot 2024-09-14 103643](https://github.com/user-attachments/assets/07a88540-1e33-4e05-b64f-2882fa958455)
+
+  ![Screenshot 2024-09-14 103703](https://github.com/user-attachments/assets/9880bf9c-fe00-4490-99eb-82d98d272894)
+
+  ![Screenshot 2024-09-14 103725](https://github.com/user-attachments/assets/5a11a3ad-9975-4652-8bf9-83361087e479)
+  
+  ![Screenshot 2024-09-14 104356](https://github.com/user-attachments/assets/61d91662-450f-4a47-b233-1de9cfec7db1)
+
+
 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
    > git clone https://github.com/your-username/Rain-Prediction-System.git
